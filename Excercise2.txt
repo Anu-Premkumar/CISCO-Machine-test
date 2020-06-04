@@ -1,0 +1,28 @@
+https://github.com/Anu-Premkumar/CISCO-Machine-test
+
+Excercise 2 que 1
+
+>telnet server
+ > ssh user@server:port
+>disk space df -H
+> inode df -i
+> ftp server
+> sftp user@server
+> scp destonation source
+
+Excercise 2 que 2
+
+with ZipFile(file_name, 'r') as zip:
+    zip.printdir()
+    zip.extractall()
+
+Excercise 2 que 3
+
+httpd -k start
+
+Excercise 2 que 5&6
+
+it can be done via the web app I created as part of excercise 1
+
+
+
